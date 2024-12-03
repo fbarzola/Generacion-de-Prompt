@@ -46,3 +46,19 @@ desarrollarse en etapas, comenzando con la creación de prompts básicos y prueb
 de datos limitados, seguido de la integración y pruebas de escalabilidad. Los recursos disponibles 
 en plataformas de código abierto y servicios de nube facilitarán la implementación y prueba de la 
 solución.
+
+# Incluye las siguientes funcionalidades:
+
+- Generacion de chunks y embeddings para llenar nuestro indice de busqueda.   
+- Creación de índices con FAISS.
+- Recuperación de contexto relevante.
+- Algoritmos de prediccion para busquedas de similitud de embeddings en el index.faiss
+- Generación de prompts contextuales a partir de consultas.
+- Conexion con API de OpenIA
+
+# EJEMPLOS DE CONSULTAS:
+
+- Quiero aprobar un pago.
+- Quiero las ventas de este mes.
+- Quiero las ventas aprobadas
+- Quiero los pagos aprobados de hoy.
