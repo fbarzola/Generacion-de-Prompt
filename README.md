@@ -3,7 +3,9 @@
 # PROPUESTA DE PROYECTO FINAL 
 
 Nombre y apellido del autor: Fernando Agustin Barzola 
+
 Nombre del curso: Generación de Prompts en IA 
+
 Nombre del proyecto: Sistema RAG para la Generación Automática de Contexto en Consultas Complejas 
 
 # Presentación del problema a abordar 
